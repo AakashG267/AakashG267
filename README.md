@@ -6,12 +6,13 @@
 
 - You can follow me on various social sites. Links are given down below:
 
-## Linkedin - 
-## Twitter - 
+## Linkedin - https://www.linkedin.com/in/aakashg267/
+## Twitter - https://twitter.com/gargaakash267
 ## Facebook - 
 ## Instagram - 
-## HackerRank - 
-## Kaggle - 
+## HackerRank - https://www.hackerrank.com/gargaakash267
+## Kaggle - https://www.kaggle.com/aakashg267
+## Medium - https://medium.com/@gargaakash267
 
 <!---
 AakashG267/AakashG267 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
